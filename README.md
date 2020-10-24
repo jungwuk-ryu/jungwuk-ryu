@@ -66,6 +66,7 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/ChatRoom?style=for-the-badge&logo=appveyor&label=ChatRoom)](https://github.com/jungwuk-ryu/ChatRoom) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/PersonalResourcePack?style=for-the-badge&logo=appveyor&label=PersonalResourcePack)](https://github.com/jungwuk-ryu/PersonalResourcePack) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/SimpleController?style=for-the-badge&logo=appveyor&label=SimpleController)](https://github.com/jungwuk-ryu/SimpleController) 
+[![](https://img.shields.io/github/languages/top/jungwuk-ryu/SimpleController?style=for-the-badge&logo=appveyor&label=SimpleController)](https://github.com/jungwuk-ryu/HInfo) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/HGuild?style=for-the-badge&logo=appveyor&label=HGuild)](https://github.com/chsv-devs/HGuild) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/RewardSign?style=for-the-badge&logo=appveyor&label=RewardSign)](https://github.com/chsv-devs/RewardSign) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/BookLibrary?style=for-the-badge&logo=appveyor&label=BookLibrary)](https://github.com/chsv-devs/BookLibrary) 
@@ -106,6 +107,10 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 ## 편리한 배치파일 프로젝트 ( BatchFile ) ( 2017-07-09 ~ )
 [![](https://img.shields.io/github/v/tag/jungwuk-ryu/BatchFile-Project?style=for-the-badge&logo=appveyor&label=BatchFile-Project)](https://github.com/jungwuk-ryu/BatchFile-Project) 
 
+----
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungwuk-ryu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungwuk-ryu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 👯 I’m looking to collaborate on ...
