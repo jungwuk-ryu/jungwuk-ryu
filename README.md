@@ -27,6 +27,7 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 - Nukkit 라이브러리를 이용한 Minecraft 서버 플러그인 제작
 
 ### public
+[![](https://img.shields.io/github/languages/top/jungwuk-ryu/HContents?style=for-the-badge&logo=appveyor&label=HContents)](https://github.com/jungwuk-ryu/HContents ) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/Broker?style=for-the-badge&logo=appveyor&label=Broker)](https://github.com/chsv-devs/Broker) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/BandMaster?style=for-the-badge&logo=appveyor&label=BandMaster)](https://github.com/chsv-devs/BandMaster) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/RockMine?style=for-the-badge&logo=appveyor&label=RockMine)](https://github.com/chsv-devs/RockMine) 
@@ -47,7 +48,6 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 
 
 ### private
-[![](https://img.shields.io/github/languages/top/jungwuk-ryu/HContents?style=for-the-badge&logo=appveyor&label=HContents)](https://github.com/jungwuk-ryu/HContents ) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/Informations?style=for-the-badge&logo=appveyor&label=Informations)](https://github.com/jungwuk-ryu/Informations) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/AutoSave?style=for-the-badge&logo=appveyor&label=AutoSave)](https://github.com/jungwuk-ryu/AutoSave) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/BoxProtector?style=for-the-badge&logo=appveyor&label=BoxProtector)](https://github.com/jungwuk-ryu/BoxProtector) 
