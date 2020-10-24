@@ -42,6 +42,8 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/LoudSpeaker?style=for-the-badge&logo=appveyor&label=LoudSpeaker)](https://github.com/jungwuk-ryu/LoudSpeaker) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/TogglePlugins?style=for-the-badge&logo=appveyor&label=TogglePlugins)](https://github.com/jungwuk-ryu/TogglePlugins) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/MultiInventory?style=for-the-badge&logo=appveyor&label=MultiInventory)](https://github.com/jungwuk-ryu/MultiInventory) 
+[![](https://img.shields.io/github/languages/top/jungwuk-ryu/NaverRealtimeKeyword?style=for-the-badge&logo=appveyor&label=NaverRealtimeKeyword)](https://github.com/jungwuk-ryu/NaverRealtimeKeyword) 
+[![](https://img.shields.io/github/languages/top/chsv-devs/ChocoServerDiscordBot?style=for-the-badge&logo=appveyor&label=ChocoServerDiscordBot)](https://github.com/chsv-devs/ChocoServerDiscordBot) 
 
 
 ### private
@@ -56,7 +58,6 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/AdvancedTeleport?style=for-the-badge&logo=appveyor&label=AdvancedTeleport)](https://github.com/jungwuk-ryu/AdvancedTeleport) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/SimpleGambling?style=for-the-badge&logo=appveyor&label=SimpleGambling)](https://github.com/jungwuk-ryu/SimpleGambling) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/MultiGamemode?style=for-the-badge&logo=appveyor&label=MultiGamemode)](https://github.com/jungwuk-ryu/MultiGamemode) 
-[![](https://img.shields.io/github/languages/top/jungwuk-ryu/NaverRealtimeKeyword?style=for-the-badge&logo=appveyor&label=NaverRealtimeKeyword)](https://github.com/jungwuk-ryu/NaverRealtimeKeyword) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/ChestLog?style=for-the-badge&logo=appveyor&label=ChestLog)](https://github.com/jungwuk-ryu/ChestLog) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/BlockNameTag?style=for-the-badge&logo=appveyor&label=BlockNameTag)](https://github.com/jungwuk-ryu/BlockNameTag) 
 [![](https://img.shields.io/github/languages/top/jungwuk-ryu/NukkitSoundManager?style=for-the-badge&logo=appveyor&label=NukkitSoundManager)](https://github.com/jungwuk-ryu/NukkitSoundManager) 
@@ -70,7 +71,6 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 [![](https://img.shields.io/github/languages/top/chsv-devs/HGuild?style=for-the-badge&logo=appveyor&label=HGuild)](https://github.com/chsv-devs/HGuild) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/RewardSign?style=for-the-badge&logo=appveyor&label=RewardSign)](https://github.com/chsv-devs/RewardSign) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/BookLibrary?style=for-the-badge&logo=appveyor&label=BookLibrary)](https://github.com/chsv-devs/BookLibrary) 
-[![](https://img.shields.io/github/languages/top/chsv-devs/ChocoServerDiscordBot?style=for-the-badge&logo=appveyor&label=ChocoServerDiscordBot)](https://github.com/chsv-devs/ChocoServerDiscordBot) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/Hshop?style=for-the-badge&logo=appveyor&label=Hshop)](https://github.com/chsv-devs/Hshop) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/ParticleManager?style=for-the-badge&logo=appveyor&label=ParticleManager)](https://github.com/chsv-devs/ParticleManager) 
 [![](https://img.shields.io/github/languages/top/chsv-devs/ChatGame?style=for-the-badge&logo=appveyor&label=ChatGame)](https://github.com/chsv-devs/ChatGame) 
