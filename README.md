@@ -19,9 +19,9 @@ java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정�
 ## KISH ( JAVA , Dart, PHP ) ( 2020-03-15 ~ )
 - Flutter와  SpringBoot를 이용한 학교 어플 및 전용 서버 만들기
 
-[![](https://img.shields.io/github/languages/top/KISH-students/KISH2020Server?style=for-the-badge&logo=appveyor&label=KISH server(JAVA))](https://github.com/KISH-students/KISH_server)  
+[![](https://img.shields.io/github/languages/top/KISH-students/KISH_server?style=for-the-badge&logo=appveyor&label=KISH_server(JAVA))](https://github.com/KISH-students/KISH_server )  
 [![](https://img.shields.io/github/languages/top/KISH-students/KISH2019-server?style=for-the-badge&logo=appveyor&label=KISH2019-server(PHP))](https://github.com/KISH-students/KISH2019-server)  
-[![](https://img.shields.io/github/languages/top/KISH-students/kish2020?style=for-the-badge&logo=appveyor&label=KISH app(Dart))](https://github.com/KISH-students/KISH_app)   
+[![](https://img.shields.io/github/languages/top/KISH-students/KISH_app?style=for-the-badge&logo=appveyor&label=KISH_app(Dart))](https://github.com/KISH-students/KISH_app )   
 
 ## NK3 ( JAVA ) ( 2019-12 ~ )
 - Nukkit 라이브러리를 이용한 Minecraft 서버 플러그인 제작
