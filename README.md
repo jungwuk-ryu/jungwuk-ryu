@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 😶 About ME
-java를 주로 하고, 하노이 한국 국제학교에 다니는 17살 유정욱입니다.
+java를 주로 하고, 하노이 한국 국제학교에 다니는 18살 유정욱입니다.
 
 ## 🌱 I’m currently learning ...
 - JAVA
