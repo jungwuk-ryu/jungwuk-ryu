@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## 😶 About ME
-java를 주로 하고, 하노이 한국 국제학교에 다니는 18살 유정욱입니다.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungwuk-ryu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungwuk-ryu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
