@@ -8,10 +8,13 @@
   <!--<a href="https://github.com/jungwuk-ryu">
     <img src="https://komarev.com/ghpvc/?username=jungwuk-ryu&style=flat-square&label=Profile+Views" alt="profile views"/>
   </a>-->
+  <a href="https://wakatime.com/@4417cfc0-39b7-494b-877d-be2b24ceff95">
+    <img src="https://wakatime.com/badge/user/4417cfc0-39b7-494b-877d-be2b24ceff95.svg" alt="wakatime">
+  </a>  
+  
   <a href="mailto:vojougae35@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <!-- 필요 시 링크들 추가: Blog / LinkedIn / X(former Twitter) 등 -->
 </p>
 
 ---
@@ -87,12 +90,6 @@
 <p align="center">
   <a href="https://wakatime.com/@4417cfc0-39b7-494b-877d-be2b24ceff95">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jungwuk&layout=compact&langs_count=10" alt="wakatime">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@4417cfc0-39b7-494b-877d-be2b24ceff95">
-    <img src="https://wakatime.com/badge/user/4417cfc0-39b7-494b-877d-be2b24ceff95.svg" alt="wakatime">
   </a>
 </p>
 
