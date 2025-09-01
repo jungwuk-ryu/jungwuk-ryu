@@ -24,9 +24,15 @@
 - 광운대학교 소프트웨어학부 재학 중.
 - Java로 **증권 API 래퍼(예: Kiwoom Open API → [Koava](https://github.com/jungwuk-ryu/koava))**, **[Minecraft 서버/플러그인](https://github.com/orgs/chsv-devs/repositories)** 을 만들어왔고,  
   Flutter로 **실전형 모바일 앱([듀잇](https://github.com/jungwuk-ryu/duty-it), [위팀](https://github.com/we-team-develop/front_weteam), [Binary Quiz](https://github.com/jungwuk-ryu/binary-quiz) 등)** 을 개발했습니다.
-- 군 복무 중 **빅데이터를 가공한 자동화 도구**를 만들어 **여단장 상장 & 포상휴가**를 수상한 경험이 있습니다.  
 - 협업 시 아이디어 중재, 현실 가능성 판단에 강점이 있습니다.  
 - 현재 목표: **오픈소스 유지/보수 역량 강화 & 자동화 역량 강화 & 해커톤에서의 우승 경험 쌓기.**
+
+---
+
+## 🏆 Awards & Honors
+
+- 광운대학교 공학설계입문 작품전시회 우수상
+- 군 복무 중 **빅데이터를 가공한 자동화 도구**를 만들어 **여단장 상장 & 포상휴가**를 수상
 
 ---
 
