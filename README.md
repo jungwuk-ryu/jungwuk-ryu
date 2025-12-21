@@ -31,9 +31,10 @@
 
 ---
 
-## 📜 Certification
+## 📜 Licenses & certifications
 
 - [Apple Ads](https://certification-ads.apple.com/certificate/kr/ZHf9UngHw2)
+- [Building AI Agents with MongoDB](https://www.credly.com/badges/7c173e8e-e68b-476c-a3f0-3ad2d976617d)
 
 ---
 
