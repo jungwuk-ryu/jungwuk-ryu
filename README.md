@@ -65,7 +65,7 @@
 
 ## 🚀 Featured Projects
 
-- **[duty-it](https://github.com/jungwuk-ryu/duty-it)** — *(2025) 간호학 행사 큐레이션 Flutter 앱.*  
+- **[duty-it](https://github.com/jungwuk-ryu/duty-it)** — *(2025) 간호학 행사 큐레이션 Flutter 앱. MAU 1.2K+*  
   `Flutter` `Dart` `Mobile`
 - **[Koava](https://github.com/jungwuk-ryu/Koava)** — *(2024) 키움증권 Open API를 Java에서 사용할 수 있게 하는 라이브러리.* (Maintainer)  
   `Java` `Finance API` `Wrapper`
@@ -84,26 +84,7 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jungwuk-ryu&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwuk-ryu&layout=compact&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jungwuk-ryu&theme=flat&no-frame=true&row=1&column=7" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@4417cfc0-39b7-494b-877d-be2b24ceff95">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jungwuk&layout=compact&langs_count=10" alt="wakatime">
-  </a>
-</p>
+[![wakatime](https://wakatime.com/badge/user/4417cfc0-39b7-494b-877d-be2b24ceff95.svg)](https://wakatime.com/@4417cfc0-39b7-494b-877d-be2b24ceff95)
 
 ---
 
