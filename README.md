@@ -32,6 +32,7 @@
 - 군 복무 중 **병 전투력 수준 유지 프로그램**을 만들어 **대대장 표창 & 포상 휴가**를 수상
 - 2026.03.28 Build with TRAE @Seoul [해커톤] 2위
 - 2026.04.25 [Flutter Seoul Meetup](https://www.linkedin.com/posts/jungwuk-you-21615429b_flutterseoul-vibecoding-hackathon-ugcPost-7454803017641394176-Uipj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEh1bTIBNnnbUuMUc6eteFRYem_e1I_B_8A) 해커톤 1위
+- 2026.05.09 GDG 대전 해커톤 5위
 
 ---
 
