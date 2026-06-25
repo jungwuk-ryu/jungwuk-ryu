@@ -33,6 +33,7 @@
 - 2026.03.28 Build with TRAE @Seoul [해커톤] 2위
 - 2026.04.25 [Flutter Seoul Meetup](https://www.linkedin.com/posts/jungwuk-you-21615429b_flutterseoul-vibecoding-hackathon-ugcPost-7454803017641394176-Uipj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEh1bTIBNnnbUuMUc6eteFRYem_e1I_B_8A) 해커톤 1위
 - 2026.05.09 GDG 대전 해커톤 5위
+- 2026.06.25 한국관광공사 관광데이터 활용 공모전 수상
 
 ---
 
